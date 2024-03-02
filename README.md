@@ -1,4 +1,7 @@
 # GRVV-Video
+
+!!!注意!!!
+此仓库已经Archive 不会再更新
 Grvv open source video
 
 文件太大没法上传到github
